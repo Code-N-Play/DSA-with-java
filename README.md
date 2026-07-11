@@ -26,7 +26,58 @@ The README is automatically updated using GitHub Actions.
 
 <!-- AUTO_STATS_START -->
 
-⚠️ Auto Generated
+
+## 📊 Repository Statistics
+
+| Topic | Problems |
+|------|---------:|
+| Array | 4 |
+| Basics befor DSA | 10 |
+| Loops | 7 |
+| String | 4 |
+
+
+## 🎯 Total Solved Problems
+
+# **25**
+
+
+## 📂 Array (4)
+- ✅ Count_odd_even
+- ✅ Sum_and_average
+- ✅ largest_ele_in_array
+- ✅ reverse_array
+
+## 📂 Basics befor DSA (10)
+- ✅ checkpalindrome
+- ✅ countdigit
+- ✅ evenodd
+- ✅ factorial
+- ✅ largestnumber
+- ✅ negativepositive
+- ✅ primenum
+- ✅ printallprime
+- ✅ reversenum
+- ✅ sumofdigit
+
+## 📂 Loops (7)
+- ✅ count_of_vowels
+- ✅ multiplication_table
+- ✅ power_calculation
+- ✅ print_one_to_N
+- ✅ sum_of_N_Natural_num
+- ✅ sum_of_N_even_num
+- ✅ table
+
+## 📂 String (4)
+- ✅ Character_frequency
+- ✅ Check_palindrome
+- ✅ Reverse_a_string
+- ✅ String_counting
+
+
+_Last Updated : 11 July 2026 10:38_
+
 
 <!-- AUTO_STATS_END -->
 
