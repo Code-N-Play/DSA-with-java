@@ -42,39 +42,6 @@ The README is automatically updated using GitHub Actions.
 # **26**
 
 
-## 📂 Array (5)
-- ✅ Count_odd_even
-- ✅ Smalest_ele_in_array
-- ✅ Sum_and_average
-- ✅ largest_ele_in_array
-- ✅ reverse_array
-
-## 📂 Basics befor DSA (10)
-- ✅ checkpalindrome
-- ✅ countdigit
-- ✅ evenodd
-- ✅ factorial
-- ✅ largestnumber
-- ✅ negativepositive
-- ✅ primenum
-- ✅ printallprime
-- ✅ reversenum
-- ✅ sumofdigit
-
-## 📂 Loops (7)
-- ✅ count_of_vowels
-- ✅ multiplication_table
-- ✅ power_calculation
-- ✅ print_one_to_N
-- ✅ sum_of_N_Natural_num
-- ✅ sum_of_N_even_num
-- ✅ table
-
-## 📂 String (4)
-- ✅ Character_frequency
-- ✅ Check_palindrome
-- ✅ Reverse_a_string
-- ✅ String_counting
 
 
 _Last Updated : 12 July 2026 14:47_
@@ -84,25 +51,7 @@ _Last Updated : 12 July 2026 14:47_
 
 ---
 
-# 📂 Repository Structure
 
-```
-📦 DSA-with-Java
-│
-├── Array
-├── Basics before DSA
-├── Loops
-├── String
-├── HashMap
-├── Stack
-├── Queue
-├── Linked List
-├── Tree
-├── Graph
-├── Dynamic Programming
-│
-└── README.md
-```
 
 ---
 
@@ -116,13 +65,6 @@ _Last Updated : 12 July 2026 14:47_
 
 
 
-# ⭐ Support
-
-If you find this repository useful,
-
-Please consider giving it a ⭐.
-
----
 
 
 _Last Updated Automatically using GitHub Actions 🤖_
