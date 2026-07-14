@@ -34,12 +34,12 @@ The README is automatically updated using GitHub Actions.
 | Array | 5 |
 | Basics befor DSA | 10 |
 | Loops | 7 |
-| String | 4 |
+| String | 5 |
 
 
 ## 🎯 Total Solved Problems
 
-# **26**
+# **27**
 
 
 ## 📂 Array (5)
@@ -70,14 +70,15 @@ The README is automatically updated using GitHub Actions.
 - ✅ sum_of_N_even_num
 - ✅ table
 
-## 📂 String (4)
+## 📂 String (5)
 - ✅ Character_frequency
 - ✅ Check_palindrome
 - ✅ Reverse_a_string
 - ✅ String_counting
+- ✅ first_letter_uppercase
 
 
-_Last Updated : 12 July 2026 14:53_
+_Last Updated : 14 July 2026 12:25_
 
 
 <!-- AUTO_STATS_END -->
