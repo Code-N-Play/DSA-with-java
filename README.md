@@ -1,5 +1,3 @@
-# 🚀 DSA with Java
-
 <p align="center">
 
 # 📚 Data Structures & Algorithms in Java
@@ -22,7 +20,7 @@ The README is automatically updated using GitHub Actions.
 
 ---
 
-# 📊 Repository Statistics
+
 
 <!-- AUTO_STATS_START -->
 
@@ -94,11 +92,6 @@ _Last Updated : 15 July 2026 11:11_
 <!-- AUTO_STATS_END -->
 
 ---
-
-
-
----
-
 
 
 # 💻 Language
