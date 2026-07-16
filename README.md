@@ -32,13 +32,13 @@ The README is automatically updated using GitHub Actions.
 | Array | 8 |
 | Basics befor DSA | 10 |
 | Loops | 7 |
-| Mini Programs | 7 |
+| Mini Programs | 8 |
 | String | 6 |
 
 
 ## 🎯 Total Solved Problems
 
-# **38**
+# **39**
 
 
 ## 📂 Array (8)
@@ -72,7 +72,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ sum_of_N_even_num
 - ✅ table
 
-## 📂 Mini Programs (7)
+## 📂 Mini Programs (8)
 - ✅ ATM_withdrawal
 - ✅ Calculator_Switch_case
 - ✅ FizzBuzz
@@ -80,6 +80,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ Guess_the_num
 - ✅ Rock_paper_scissor
 - ✅ leap_year_checker
+- ✅ password_validation
 
 ## 📂 String (6)
 - ✅ Character_frequency
@@ -90,7 +91,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 16 July 2026 10:46_
+_Last Updated : 16 July 2026 11:01_
 
 
 <!-- AUTO_STATS_END -->
