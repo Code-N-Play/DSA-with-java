@@ -1,0 +1,53 @@
+import java.util.Scanner;
+
+public class Diamond{
+    public static void main (String[] args){
+
+        System.out.println("Enter Grid Size");
+        Scanner sc = new Scanner (System.in);
+        int k = sc.nextInt();
+        System.out.println("Here is your pattern");
+
+        for(int i = 0 ; i < k ; i++){
+             
+            for(int j = k - i; j > 0; j--){
+                System.out.print(" ");
+            }
+
+            for(int j = 0; j < ((i*2) + 1); j++){
+                System.out.print("*");
+            }
+             
+
+            System.out.println("");
+
+        }
+        for(int i = k ; i >= 0 ; i--){
+             
+            for(int j = k - i; j > 0; j--){
+                System.out.print(" ");
+            }
+
+            for(int j = 0; j < ((i*2) + 1); j++){
+                System.out.print("*");
+            }
+             
+
+            System.out.println("");
+        }
+
+        
+    }
+}
+// output for grid size 5
+//      *
+//     ***
+//    *****
+//   *******
+//  *********
+// ***********
+//  *********
+//   *******
+//    *****
+//     ***
+//      *
