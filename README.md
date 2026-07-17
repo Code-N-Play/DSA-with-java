@@ -33,13 +33,13 @@ The README is automatically updated using GitHub Actions.
 | Basics befor DSA | 10 |
 | Loops | 7 |
 | Mini Programs | 8 |
-| Pattern | 10 |
+| Pattern | 11 |
 | String | 6 |
 
 
 ## 🎯 Total Solved Problems
 
-# **49**
+# **50**
 
 
 ## 📂 Array (8)
@@ -83,10 +83,11 @@ The README is automatically updated using GitHub Actions.
 - ✅ leap_year_checker
 - ✅ password_validation
 
-## 📂 Pattern (10)
+## 📂 Pattern (11)
 - ✅ Diamond
 - ✅ box_bordar
 - ✅ half_diamond
+- ✅ incrementing_diamond
 - ✅ incrementing_num
 - ✅ left_down
 - ✅ left_rightangle_triangle
@@ -104,7 +105,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 17 July 2026 10:19_
+_Last Updated : 17 July 2026 11:02_
 
 
 <!-- AUTO_STATS_END -->
