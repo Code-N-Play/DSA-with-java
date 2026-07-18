@@ -31,6 +31,7 @@ The README is automatically updated using GitHub Actions.
 |------|---------:|
 | Array | 8 |
 | Basics befor DSA | 10 |
+| College Weekly Modules | 0 |
 | Loops | 7 |
 | Mini Programs | 8 |
 | Pattern | 13 |
@@ -63,6 +64,8 @@ The README is automatically updated using GitHub Actions.
 - ✅ printallprime
 - ✅ reversenum
 - ✅ sumofdigit
+
+## 📂 College Weekly Modules (0)
 
 ## 📂 Loops (7)
 - ✅ count_of_vowels
@@ -107,7 +110,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 17 July 2026 11:39_
+_Last Updated : 18 July 2026 10:19_
 
 
 <!-- AUTO_STATS_END -->
