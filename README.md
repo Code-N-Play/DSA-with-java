@@ -33,14 +33,14 @@ The README is automatically updated using GitHub Actions.
 | Basics befor DSA | 10 |
 | College Weekly Modules | 0 |
 | Loops | 7 |
-| Mini Programs | 9 |
+| Mini Programs | 10 |
 | Pattern | 13 |
 | String | 6 |
 
 
 ## 🎯 Total Solved Problems
 
-# **53**
+# **54**
 
 
 ## 📂 Array (8)
@@ -76,13 +76,14 @@ The README is automatically updated using GitHub Actions.
 - ✅ sum_of_N_even_num
 - ✅ table
 
-## 📂 Mini Programs (9)
+## 📂 Mini Programs (10)
 - ✅ ATM_withdrawal
 - ✅ Calculator_Switch_case
 - ✅ Electricity_bill_calc
 - ✅ FizzBuzz
 - ✅ Grade_calc
 - ✅ Guess_the_num
+- ✅ Incom_tax_calc
 - ✅ Rock_paper_scissor
 - ✅ leap_year_checker
 - ✅ password_validation
@@ -111,7 +112,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 19 July 2026 07:38_
+_Last Updated : 19 July 2026 08:09_
 
 
 <!-- AUTO_STATS_END -->
