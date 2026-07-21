@@ -32,7 +32,7 @@ The README is automatically updated using GitHub Actions.
 | Array | 8 |
 | Basics befor DSA | 10 |
 | College Weekly Modules | 0 |
-| Loops | 7 |
+| Loops | 8 |
 | Mini Programs | 11 |
 | Pattern | 13 |
 | String | 6 |
@@ -40,7 +40,7 @@ The README is automatically updated using GitHub Actions.
 
 ## 🎯 Total Solved Problems
 
-# **55**
+# **56**
 
 
 ## 📂 Array (8)
@@ -67,7 +67,8 @@ The README is automatically updated using GitHub Actions.
 
 ## 📂 College Weekly Modules (0)
 
-## 📂 Loops (7)
+## 📂 Loops (8)
+- ✅ ascii_value
 - ✅ count_of_vowels
 - ✅ multiplication_table
 - ✅ power_calculation
@@ -113,7 +114,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 19 July 2026 10:26_
+_Last Updated : 21 July 2026 07:23_
 
 
 <!-- AUTO_STATS_END -->
