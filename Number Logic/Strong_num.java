@@ -1,4 +1,4 @@
-// A strong number (also known as a Krishnamurthy number or a factorion) is a number whose value equals the sum of the factorials of its individual digits.
+// A strong number (also known as a petersonnumber , Krishnamurthy number or a factorion) is a number whose value equals the sum of the factorials of its individual digits.
 
 // Example:- For the number (145), the sum of the factorials of its digits is (1! + 4! + 5! = 1 + 24 + 120 = 145). 
 
