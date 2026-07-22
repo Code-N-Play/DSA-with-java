@@ -34,14 +34,14 @@ The README is automatically updated using GitHub Actions.
 | College Weekly Modules | 0 |
 | Loops | 8 |
 | Mini Programs | 11 |
-| Number Logic | 6 |
+| Number Logic | 7 |
 | Pattern | 13 |
 | String | 6 |
 
 
 ## 🎯 Total Solved Problems
 
-# **62**
+# **63**
 
 
 ## 📂 Array (8)
@@ -91,9 +91,10 @@ The README is automatically updated using GitHub Actions.
 - ✅ leap_year_checker
 - ✅ password_validation
 
-## 📂 Number Logic (6)
+## 📂 Number Logic (7)
 - ✅ Armstrong_number
 - ✅ Automorphic_number
+- ✅ Duck_number
 - ✅ Neon_number
 - ✅ Spy_number
 - ✅ Strong_num
@@ -123,7 +124,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 22 July 2026 08:36_
+_Last Updated : 22 July 2026 09:11_
 
 
 <!-- AUTO_STATS_END -->
