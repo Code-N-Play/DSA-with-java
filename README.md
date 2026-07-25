@@ -36,12 +36,12 @@ The README is automatically updated using GitHub Actions.
 | Mini Programs | 11 |
 | Number Logic | 13 |
 | Pattern | 13 |
-| String | 6 |
+| String | 7 |
 
 
 ## 🎯 Total Solved Problems
 
-# **70**
+# **71**
 
 
 ## 📂 Array (9)
@@ -122,16 +122,17 @@ The README is automatically updated using GitHub Actions.
 - ✅ sandwich
 - ✅ squre
 
-## 📂 String (6)
+## 📂 String (7)
 - ✅ Character_frequency
 - ✅ Check_palindrome
+- ✅ RemoveSpace
 - ✅ Reverse_a_string
 - ✅ String_counting
 - ✅ find_longest_word
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 25 July 2026 08:22_
+_Last Updated : 25 July 2026 09:41_
 
 
 <!-- AUTO_STATS_END -->
