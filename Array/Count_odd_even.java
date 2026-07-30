@@ -15,7 +15,7 @@ public class Count_odd_even{
 
             else {
                 odd_count = odd_count + 1;
-            }hshdhehh
+            }
         }
 
         System.out.println("The odd numbers in array is " + odd_count );
