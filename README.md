@@ -29,7 +29,7 @@ The README is automatically updated using GitHub Actions.
 
 | Topic | Problems |
 |------|---------:|
-| Array | 44 |
+| Array | 45 |
 | Basics befor DSA | 10 |
 | College Weekly Modules | 0 |
 | Loops | 8 |
@@ -41,10 +41,10 @@ The README is automatically updated using GitHub Actions.
 
 ## 🎯 Total Solved Problems
 
-# **106**
+# **107**
 
 
-## 📂 Array (44)
+## 📂 Array (45)
 - ✅ ArrangeAlternatingEvenOddNum
 - ✅ ArrangeAlternatingPositiveNegative
 - ✅ Count_odd_even
@@ -62,6 +62,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ FindMissingNum
 - ✅ FindOccurrences
 - ✅ FindSmallestEvenAndOddNum
+- ✅ FindTwoLargestElement
 - ✅ FindUniqeElements
 - ✅ FirstAndLastEle
 - ✅ FirstNonRepeatingEle
@@ -167,7 +168,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 03 August 2026 08:36_
+_Last Updated : 03 August 2026 09:17_
 
 
 <!-- AUTO_STATS_END -->
