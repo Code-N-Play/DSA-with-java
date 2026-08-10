@@ -15,7 +15,7 @@ public class CheckArrayIsRotationOfanother{
                 array[j] = array[j+1];
                 array[j+1] = temp;
             }
-            if(Arrays.equals(array,given_array)){ // Arrays.equals(arr1,arr2)   is line ka use do array equale hai ki nahi isko check krne ke liye kiya jata hai 
+            if(Arrays.equals(array,given_array)){ // Arrays.equals(arr1,arr2) is line ka use do array equale hai ki nahi isko check krne ke liye kiya jata hai 
                 issame = true ;
                 break;
             }
