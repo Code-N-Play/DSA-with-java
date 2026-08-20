@@ -29,10 +29,3 @@ public class Character_frequency{
         System.out.println(A);
     }
 }
-
-
-
-// today i am not commiting any thing because I am not feeling well 
-
-
-
