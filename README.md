@@ -37,12 +37,12 @@ The README is automatically updated using GitHub Actions.
 | Mini Programs | 11 |
 | Number Logic | 13 |
 | Pattern | 13 |
-| String | 8 |
+| String | 9 |
 
 
 ## 🎯 Total Solved Problems
 
-# **137**
+# **138**
 
 
 ## 📂 Array (70)
@@ -190,9 +190,10 @@ The README is automatically updated using GitHub Actions.
 - ✅ sandwich
 - ✅ squre
 
-## 📂 String (8)
+## 📂 String (9)
 - ✅ Character_frequency
 - ✅ Check_palindrome
+- ✅ ConvertToUpperCasewithoutUsingFunction
 - ✅ FindStringLenWithoutUsingDotLengthFunction
 - ✅ RemoveSpace
 - ✅ Reverse_a_string
@@ -201,7 +202,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 22 August 2026 07:08_
+_Last Updated : 22 August 2026 09:12_
 
 
 <!-- AUTO_STATS_END -->
