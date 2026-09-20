@@ -29,7 +29,7 @@ The README is automatically updated using GitHub Actions.
 
 | Topic | Problems |
 |------|---------:|
-| 2D Array | 15 |
+| 2D Array | 20 |
 | Array | 70 |
 | Basics befor DSA | 10 |
 | College Weekly Modules | 0 |
@@ -43,25 +43,30 @@ The README is automatically updated using GitHub Actions.
 
 ## 🎯 Total Solved Problems
 
-# **172**
+# **177**
 
 
-## 📂 2D Array (15)
+## 📂 2D Array (20)
+- ✅ AddOneInEachElement
 - ✅ CountEvenOrOddElement
 - ✅ CountOccurenceOfGivenNumber
 - ✅ FindMaximumElement
 - ✅ FindMinimumElement
 - ✅ FindTheSumOf2DArray
+- ✅ OneDArrayOfColumnSumOfTwoDArray
+- ✅ OneDArrayOfRowSumOfTwoDArray
 - ✅ PrintColumnWiseWave
 - ✅ PrintKthColumn
 - ✅ PrintKthRow
 - ✅ PrintMainDiagonal
 - ✅ PrintMaterixElement
 - ✅ PrintRowWiseWave
+- ✅ PrintSumOfKthColumn
 - ✅ PrintSumOfKthRow
 - ✅ SearchElementInMatrix
 - ✅ SumOfEachColumn
 - ✅ SumOfEachRow
+- ✅ SumOfTwoMatrix
 
 ## 📂 Array (70)
 - ✅ ArrangeAlternatingEvenOddNum
@@ -239,7 +244,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 19 September 2026 17:32_
+_Last Updated : 20 September 2026 14:20_
 
 
 <!-- AUTO_STATS_END -->
