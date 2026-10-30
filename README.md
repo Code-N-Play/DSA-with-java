@@ -33,7 +33,7 @@ The README is automatically updated using GitHub Actions.
 | Array | 70 |
 | Basics befor DSA | 10 |
 | College Weekly Modules | 0 |
-| LeetCode Problems | 25 |
+| LeetCode Problems | 26 |
 | Loops | 8 |
 | Mini Programs | 11 |
 | Number Logic | 13 |
@@ -43,7 +43,7 @@ The README is automatically updated using GitHub Actions.
 
 ## 🎯 Total Solved Problems
 
-# **187**
+# **188**
 
 
 ## 📂 2D Array (24)
@@ -158,7 +158,7 @@ The README is automatically updated using GitHub Actions.
 
 ## 📂 College Weekly Modules (0)
 
-## 📂 LeetCode Problems (25)
+## 📂 LeetCode Problems (26)
 - ✅ LeetCodeProblemNo121
 - ✅ LeetCodeProblemNo125
 - ✅ LeetCodeProblemNo1295
@@ -172,6 +172,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ LeetCodeProblemNo1929
 - ✅ LeetCodeProblemNo1941
 - ✅ LeetCodeProblemNo217
+- ✅ LeetCodeProblemNo231
 - ✅ LeetCodeProblemNo258
 - ✅ LeetCodeProblemNo268
 - ✅ LeetCodeProblemNo283
@@ -254,7 +255,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 30 October 2026 03:24_
+_Last Updated : 30 October 2026 04:04_
 
 
 <!-- AUTO_STATS_END -->
