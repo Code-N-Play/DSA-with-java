@@ -18,7 +18,7 @@
 // Output: [3,4,6,16,17]
 
 
-// Solution:-
+//MY Solution for vs code :-
 
 public class LeetCodeProblemNo1480{
     public static void main(String[] args) {
@@ -36,5 +36,15 @@ public class LeetCodeProblemNo1480{
             System.out.print(array[i] + ", ");
         }
         
+    }
+}
+
+// LeetCode compatible solution 
+class Solution {
+    public int[] runningSum(int[] nums) {
+        for(int i = 1; i < nums.length ; i++){
+            nums[i] = nums[i-1] + nums[i];
+        }
+        return nums;
     }
 }
