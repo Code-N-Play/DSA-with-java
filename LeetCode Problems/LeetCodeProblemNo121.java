@@ -16,8 +16,7 @@
 // Explanation: In this case, no transactions are done and the max profit = 0.
 
 
-// Solition:-
-  
+//my Solition for vs code:-
 public class LeetCodeProblemNo121 {
     public static void main(String[] args) {
         
@@ -43,5 +42,31 @@ public class LeetCodeProblemNo121 {
         System.out.println(maxprofit);
 
 
+    }
+}
+
+// leetcode compatible solution 
+class Solution {
+    public int maxProfit(int[] prices) {
+        int len = prices.length;
+        int profit = 0;
+        int maxprofit = 0;
+        int minprice = prices[0];
+        int current = 0 ;
+        
+        
+        for(int i = 1 ; i < len ; i++){ 
+            current = prices[i];
+
+            minprice = Math.min(minprice , current );
+
+            profit = current - minprice;
+
+            maxprofit = Math.max(maxprofit , profit);
+
+        }
+
+        return maxprofit;
+        
     }
 }
