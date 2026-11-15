@@ -30,7 +30,7 @@ The README is automatically updated using GitHub Actions.
 | Topic | Problems |
 |------|---------:|
 | 2D Array | 24 |
-| Array | 70 |
+| Array | 71 |
 | Basics befor DSA | 10 |
 | College Weekly Modules | 0 |
 | LeetCode Problems | 35 |
@@ -43,7 +43,7 @@ The README is automatically updated using GitHub Actions.
 
 ## 🎯 Total Solved Problems
 
-# **197**
+# **198**
 
 
 ## 📂 2D Array (24)
@@ -72,7 +72,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ TransposeTheMatrix
 - ✅ UserInputMatrix
 
-## 📂 Array (70)
+## 📂 Array (71)
 - ✅ ArrangeAlternatingEvenOddNum
 - ✅ ArrangeAlternatingPositiveNegative
 - ✅ CheckArrayIsRotationOfanother
@@ -106,6 +106,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ FirstNonRepeatingEle
 - ✅ FirstRepeatingEle
 - ✅ LargestDifferance
+- ✅ LeetCodeProblemNo242
 - ✅ LinearSearch
 - ✅ MoveAllZeroToBeginning
 - ✅ MoveAllZeroToLast
@@ -264,7 +265,7 @@ The README is automatically updated using GitHub Actions.
 - ✅ first_letter_uppercase
 
 
-_Last Updated : 12 November 2026 20:33_
+_Last Updated : 15 November 2026 17:57_
 
 
 <!-- AUTO_STATS_END -->
